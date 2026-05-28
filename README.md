@@ -101,12 +101,6 @@ cd ~/labtainer/labtainer-student
 labtainer dct-social-watermark
 ```
 
-Nếu đang phát triển hoặc chỉnh sửa lab:
-
-```bash
-rebuild dct-social-watermark
-```
-
 ---
 
 # Nội dung thực hành
